@@ -1,0 +1,28 @@
+ARRAYS:
+
+1. Write a Java program to find all pairs of elements in an integer array whose sum is equal to a given number?
+2. Write a Java program to find continuous sub array whose sum is equal to a given number?
+3. Write a Java program to find the intersection of two arrays?
+4. Write a Java program to separate zeros from non-zeros in an integer array?
+5. Write a Java program to find all the leaders in an integer array?
+6. Write a Java program to find a missing number in an integer array?
+7. Write a Java program to convert an array to ArrayList and an ArrayList to array?
+8. Write a Java program to count occurrences of each element in an array?
+9. Write a Java program to reverse an array without using an additional array?
+10. Write a Java program to remove duplicate elements from an array?
+11. Write a Java program to find union and intersection of multiple arrays?
+12. Write a Java program to find the most frequent element in an array?
+13. Write a Java program to find the minimum absolute difference between any two elements of the given array?
+14. How to sort array elements by frequency in Java?
+15. Write a Java program to find smallest and second smallest element in an integer array?
+16. Write a Java program which prints all contiguous sub arrays with given sum?
+17. How to sort an array of 0s and 1s in Java?
+18. How to sort an array of 0s, 1s and 2s in Java?
+19. You are given an array/list ARR of N distinct positive integers. You are also given a non-negative integer B.
+    Your task is to find all unique combinations in the array whose sum is equal to B. A number can be chosen any number of times from array/list ARR.
+    Elements in each combination must be in non-decreasing order.
+20. Program to find all possible combinations of elements from two sets of arrays such that the sum of elements is equal to one of the elements 
+in the array itself.
+
+//STRINGS:
+1. coding question Remove letter e from a sentence "Welcome to Ecom Express"
